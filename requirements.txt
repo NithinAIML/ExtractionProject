@@ -1,0 +1,4 @@
+pytesseract
+pypdf
+pandas
+pypdf2
